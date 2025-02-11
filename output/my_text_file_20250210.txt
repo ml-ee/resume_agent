@@ -1,0 +1,47 @@
+Min Sup Lee 
+ (217) 305-5231  leeminsup1989@gmail.com  
+Work Experience 
+State Farm Insurance Co., Lead Data Scientist        Bloomington, IL, July 2020 – Current  
+▪ Co-invented a patented RAG -based GenAI application, optimizing chunking, prompt engineering, and retrieval 
+efficiency for enhanced adaptability across business functions. 
+▪ Implemented scalable LLM evaluation pipeline and monitoring frameworks, standardizing usability, addressability, 
+company compliance, and real-world reliability. 
+▪ Implemented LLM Agents with CrewAI to scale out input contexts and improve task automation in GenAI applications. 
+▪ Designed A/B tests, demonstrating GenAI’s 5% AHT reduction ( $2M/yr cost savings) and driving enterprise -wide 
+adoption. 
+▪ Developed and maintained a predictive model evaluating agent office performance over three years, overseeing the 
+full ML lifecycle for 3+ years. 
+▪ Designed a web -based UI with secure credential management, automated data updates, and scalable PVC storage, 
+reducing user engagement time by 90% while improving data integrity and system reliability. 
+▪ Built and managed a zip -code-level opportunity scoring model for 2+ years, leveraging multi -source data to support 
+strategic Auto Policy growth decisions. 
+Soothsayer Analytics, Data Scientist               Livonia, MI, May 2019 – Apr 2020  
+▪ Developed a Python -based forecasting framework leveraging Time Series models (ARIMA, Holt -Winters, TBATS, 
+Prophet), XGBoost, and Neural Networks for a $5B manufacturing client. 
+▪ Built a classification model to predict comfort temperature settings, enhancing climate control system optimization. 
+▪ Optimized manufacturing process for an $8.4B chemical client, increasing efficiency by 20%, reducing waste by 10%. 
+Anheuser-Busch InBev, Data Science Intern        Champaign, IL, May 2018 – Feb 2019  
+▪ Identified key drivers of sales volume of cities in Brazil and South Africa individually using 2 years’ worth sales data, 
+Google Analytics data, and additional custom data for each region 
+Oh Pharmaceutical, Project Coordinator                      Crown Point, IN, July 2016 – Dec 2016 
+▪ Optimized the contractor budget to reduce cost up to 20% in $40M project 
+Education 
+University of Illinois, Urbana-Champaign 
+▪ M.S. in Statistics – Analytics                      Dec 2018 
+▪ B.S. in Industrial Engineering & B.S. in Statistics                    May 2016 
+Academic Project 
+Predictive Analytics on Financial Data             Fall 2018 
+▪ Engineered Financial data and articles to run ML/DL algorithms using H2O, Keras, and TensorFlow in R 
+▪ Placed 1st/12 teams with a Stacked Ensemble model that achieved 77.9% accuracy with 0.881 AUC (Bitcoin Data) 
+▪ Predicted stock movements in 3 directions using CNN, RNN, HRNN with up to 51% accuracy (CME LOB) on AWS 
+Clustering Gene Expressions by Ontology Annotation         Spring 2018 
+▪ Applied Network Analysis and Clustering methods to identify ontology annotations using R and Python 
+Predictive Analytics using Monte Carlo Algorithm             Fall 2017 
+▪ Predicted the exchange currency trend of Ruble to USD using sampling methods and Monte Carlo Markov Chain (up 
+to 82% training accuracy)  
+Production Schedule Optimization for Cost Reduction (Client: Anheuser-Busch InBev)            Fall 2015 
+▪ Built a prototype production control system that reduced the production cost up to 15% using VBA, R, and Excel 
+Certificate / Skill 
+AWS Certified Machine Learning – Specialty 
+Python, R, SQL, TensorFlow, SSMS, Azure Data Factory, Databricks, Spark, AWS, Tableau, Power BI, H2O, 
+SAS, AutoCAD, SIGMA, HDFS, Pig, Hive 
