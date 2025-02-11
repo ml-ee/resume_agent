@@ -54,7 +54,7 @@ class ResumeCrew:
         return Agent(
             llm=llm,
             config=self.agents_config['pdf_reader_agent'],
-            tools=[PDF_reader_tool()],
+            tools=[PDF_reader_tool("/Users/minsuplee/Desktop/llmagents/src/JD_analysis/pdfs/Minsup_Lee_Resume_2025_v2.pdf")],
             verbose=True,
             allow_delegation=False,
         )
